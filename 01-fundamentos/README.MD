@@ -1,0 +1,1 @@
+No primeiro módulo a trybe ensinará tudo que é necessário para iniciar a carreira no mundo do desenvolvimento web, virando uma pessoa preparada para os módulos de front-end e back-end.
