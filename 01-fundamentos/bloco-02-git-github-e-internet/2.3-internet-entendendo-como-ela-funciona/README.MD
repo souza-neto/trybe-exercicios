@@ -1,0 +1,1 @@
+Nesta aula aprendemos sobre como funciona a internet, com isso aprendemos como funciona o HTTP,TCP/IP,DNS.
