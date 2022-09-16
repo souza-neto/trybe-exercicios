@@ -1,0 +1,35 @@
+div:hover{
+    border-style: solid;
+    border-color: blue;
+}
+
+#cor-1{
+    background-color: darkgreen;
+    color:crimson;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+#cor-2{
+    background-color: rgb(17, 235, 216);
+    color: blueviolet;
+    font-size: larger;
+}
+
+#cor-3{
+    background-color: blueviolet;
+    color: azure;
+    font-size: 50px;
+    font-style: italic;
+}
+
+#cor-4{
+    background-color: indigo;
+    color: burlywood;
+}
+
+#cor-5{
+    background-color:darkkhaki;
+    color: darkgreen;
+    font-style: italic;
+}
