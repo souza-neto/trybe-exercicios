@@ -4,7 +4,7 @@
 }
 
 .header-title{
-    background-color: #00b5b9;
+    background-color: #5c4b37;
     color: #dddd92;
     padding-top: 30px;
     padding-left: 10px;
@@ -13,7 +13,7 @@
 }
 
 .header-nav1{
-    background-color: #57c5c7;
+    background-color: #463a2a;
     color: #dddd92;
     text-align: center;
 }
@@ -23,3 +23,33 @@
     cursor: pointer;
     font-size: 18px;
 }
+
+main{
+    display: inline-block;
+    background-color: #00b5b9;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+}
+
+.main-table{
+    padding-left: 28%;
+}
+
+img{
+    width: 500px; 
+    padding-left: 500px;
+}
+
+p{
+    padding: 20px;
+}
+
+footer{
+    background-color: #463a2a;
+    color: #dddd92;
+    text-align: center;
+    padding: 10px;
+}
+
