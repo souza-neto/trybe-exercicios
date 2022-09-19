@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header-title{
+    background-color: #00b5b9;
+    color: #dddd92;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.header-nav1{
+    background-color: #57c5c7;
+    color: #dddd92;
+    text-align: center;
+}
+.header-nav{
+    display: inline-block;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 18px;
+}
